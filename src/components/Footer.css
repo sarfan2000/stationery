@@ -1,0 +1,36 @@
+
+
+.footer-wrapper {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+      
+  }
+  
+  .footer-maroon {
+    background-color: #860000;
+    height: 50px;
+    font-size: 25px;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+  .footer-yellow {
+    background-color: #ffc700;
+    height: 15px;
+    width: 100%;
+
+  }
